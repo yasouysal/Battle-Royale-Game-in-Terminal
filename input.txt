@@ -1,0 +1,21 @@
+Board Size: 11
+Player Count: 19
+0::Berserk::8::10
+1::Berserk::7::10
+2::Tracer::6::7
+3::Berserk::3::7
+4::Ambusher::3::10
+5::Dummy::7::1
+10::Pacifist::8::1
+11::Ambusher::8::8
+12::Berserk::3::2
+13::Ambusher::8::3
+14::Pacifist::6::4
+15::Dummy::1::3
+16::Berserk::10::9
+17::Ambusher::6::5
+18::Tracer::8::4
+6::Ambusher::4::8
+7::Berserk::1::6
+8::Pacifist::2::3
+9::Ambusher::1::2
